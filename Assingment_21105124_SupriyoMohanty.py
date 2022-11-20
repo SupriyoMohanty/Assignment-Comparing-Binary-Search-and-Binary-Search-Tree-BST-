@@ -157,7 +157,8 @@ arr.pop(result) #deleting element
 print(arr)
 
 
-# ### Space complexity of a "binary search tree on average is O(logn)" as on average there are at most logn calls in the recursion stack. In the "worst case, space complexity can be O(n)". The space complexity of "binary search in the iterative method" is O(1).
+# ### Space complexity of a "binary search tree on average is O(logn)" as on average there are at most logn calls in the recursion stack. 
+#In the "worst case, space complexity can be O(n)". The space complexity of "binary search in the iterative method" is O(1).
 # 
 # # So Binary search is better than Binary Search Tree in terms of space complexity
 # 
